@@ -1,0 +1,4 @@
+Sentence Transformers
+PyTorch
+Scikit-learn
+all-MiniLM-L6-v2 embedding model
